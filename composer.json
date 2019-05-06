@@ -1,0 +1,7 @@
+{
+  "name": "skilld/skilld_backlink",
+  "description": "The module provides block with configurable link to go back to previous page.",
+  "type": "drupal-module",
+  "keywords": ["Drupal", "Backlink"],
+  "license": "MIT"
+}
