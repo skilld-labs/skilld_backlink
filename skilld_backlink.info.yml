@@ -1,0 +1,4 @@
+name: Skilld backlink
+description: The module provides block with configurable link to go back to previous page.
+type: module
+core: 8.x

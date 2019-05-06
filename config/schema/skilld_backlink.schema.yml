@@ -1,0 +1,9 @@
+# Schema for the configuration files of the skilld_backlink module.
+
+block.settings.skilld_backlink_block:
+  type: block_settings
+  label: 'Back link block'
+  mapping:
+    text:
+      type: label
+      label: 'Link text'
