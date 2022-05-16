@@ -1,3 +1,9 @@
+# Deprecation notice
+
+This module is deprecated.
+ 
+You can use https://www.drupal.org/project/go_back instead.
+
 # Skilld Backlink
 
 The module provides block with configurable link to go back to previous page.
