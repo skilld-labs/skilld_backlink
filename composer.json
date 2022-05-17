@@ -3,5 +3,6 @@
   "description": "The module provides block with configurable link to go back to previous page.",
   "type": "drupal-module",
   "keywords": ["Drupal", "Backlink"],
-  "license": "MIT"
+  "license": "MIT",
+  "abandoned": "drupal/go_back"
 }
